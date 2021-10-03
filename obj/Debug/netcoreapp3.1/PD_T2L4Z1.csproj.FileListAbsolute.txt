@@ -1,0 +1,14 @@
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\bin\Debug\netcoreapp3.1\PD_T2L4Z1.exe
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\bin\Debug\netcoreapp3.1\PD_T2L4Z1.deps.json
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\bin\Debug\netcoreapp3.1\PD_T2L4Z1.runtimeconfig.json
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\bin\Debug\netcoreapp3.1\PD_T2L4Z1.runtimeconfig.dev.json
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\bin\Debug\netcoreapp3.1\PD_T2L4Z1.dll
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\bin\Debug\netcoreapp3.1\PD_T2L4Z1.pdb
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\obj\Debug\netcoreapp3.1\PD_T2L4Z1.csproj.AssemblyReference.cache
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\obj\Debug\netcoreapp3.1\PD_T2L4Z1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\obj\Debug\netcoreapp3.1\PD_T2L4Z1.AssemblyInfoInputs.cache
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\obj\Debug\netcoreapp3.1\PD_T2L4Z1.AssemblyInfo.cs
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\obj\Debug\netcoreapp3.1\PD_T2L4Z1.csproj.CoreCompileInputs.cache
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\obj\Debug\netcoreapp3.1\PD_T2L4Z1.dll
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\obj\Debug\netcoreapp3.1\PD_T2L4Z1.pdb
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\obj\Debug\netcoreapp3.1\PD_T2L4Z1.genruntimeconfig.cache

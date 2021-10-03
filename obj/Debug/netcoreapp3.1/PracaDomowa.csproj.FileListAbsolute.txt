@@ -1,0 +1,14 @@
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\obj\Debug\netcoreapp3.1\PracaDomowa.csproj.AssemblyReference.cache
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\obj\Debug\netcoreapp3.1\PracaDomowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\obj\Debug\netcoreapp3.1\PracaDomowa.AssemblyInfoInputs.cache
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\obj\Debug\netcoreapp3.1\PracaDomowa.AssemblyInfo.cs
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\obj\Debug\netcoreapp3.1\PracaDomowa.csproj.CoreCompileInputs.cache
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\bin\Debug\netcoreapp3.1\PracaDomowa.exe
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\bin\Debug\netcoreapp3.1\PracaDomowa.deps.json
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\bin\Debug\netcoreapp3.1\PracaDomowa.runtimeconfig.json
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\bin\Debug\netcoreapp3.1\PracaDomowa.runtimeconfig.dev.json
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\bin\Debug\netcoreapp3.1\PracaDomowa.dll
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\bin\Debug\netcoreapp3.1\PracaDomowa.pdb
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\obj\Debug\netcoreapp3.1\PracaDomowa.dll
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\obj\Debug\netcoreapp3.1\PracaDomowa.pdb
+C:\Users\u21v93\source\repos\PracaDomowa\PracaDomowa\obj\Debug\netcoreapp3.1\PracaDomowa.genruntimeconfig.cache
