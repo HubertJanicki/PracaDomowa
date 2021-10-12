@@ -6,17 +6,30 @@ namespace PracaDomowa
     {
         static void Main(string[] args)
         {
-            int number1;
-            decimal number2;
-            string text;
+            Console.WriteLine("Welcome to the Transhumanity Center!\n Before we can proceed with your implants order, please answer questionnaire below.");
 
-            number1 = 10;
-            number2 = 12.5m;
-            text = "Szkoła Dotneta";
+            Console.WriteLine("What is your name?");
+            string name = Console.ReadLine();
+            Console.WriteLine("What is your surname?");
+            string surname = Console.ReadLine();
+            Console.WriteLine("What is your age?");
+            string age = Console.ReadLine();
+            Console.WriteLine("What is your phone number?");
+            string phoneNumber = Console.ReadLine();
+            Console.WriteLine("What is your email?");
+            string eMail = Console.ReadLine();
+            Console.WriteLine("What is your height [m]?");
+            string height = Console.ReadLine();
+            Console.WriteLine("What is your weight [kg]?");
+            string weight = Console.ReadLine();
 
-            Console.WriteLine($"Liczba całkowita: {number1}");
-            Console.WriteLine($"Liczba zmiennoprzecinkowa: {number2}");
-            Console.WriteLine($"Tekst: {text}");
+            int resultAge = Int32.Parse(age);
+            int resultPhoneNumber = Int32.Parse(phoneNumber);
+            decimal resultHeight = Decimal.Parse(height);
+            decimal resultWeight = Decimal.Parse(weight);
+
+            Console.WriteLine("\nThank you for filling questionnaire.\nPlease, check if you implemented correct data before placing an order.");
+            Console.WriteLine($" Name: {name}\n Surname: {surname}\n Age: {resultAge}\n Phone number: {resultPhoneNumber}\n Email: {eMail}\n Height: {resultHeight}\n Weight: {resultWeight}");
         }
     }
 }
