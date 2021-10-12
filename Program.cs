@@ -6,11 +6,23 @@ namespace PracaDomowa
     {
         static void Main(string[] args)
         {
-            char letter1 = 'a';
-            char letter2 = 'b';
-            char letter3 = 'c';
+            Console.WriteLine("Witaj w programie do obliczenia długości przekątnej prostokąta.");
 
-            Console.WriteLine($"Podane przez Ciebie litery w odwrotnej kolejności to: {letter3}, {letter2}, {letter1}");
+            Console.WriteLine("Podaj szerokość prostokąta: ");
+            string width = Console.ReadLine();
+            Console.WriteLine("Podaj długość prostokąta: ");
+            string length = Console.ReadLine();
+
+            int widthNumber;
+            int lengthNumber;
+
+            Int32.TryParse(width, out widthNumber);
+            Int32.TryParse(length, out lengthNumber);
+
+            double widthPower = Math.Pow(widthNumber, 2);
+            double lengthPower = Math.Pow(lengthNumber, 2);
+            double diagonal = Math.Sqrt(widthPower + lengthPower);
+            Console.WriteLine($"Obliczona przekątna prostokąta wynosi: {diagonal}.");
         }
     }
 }
